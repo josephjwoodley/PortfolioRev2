@@ -8,7 +8,7 @@ body {
   }
   
   nav {
-      padding: 1rem;
+      padding: 0.5rem;
       background: #3D2F2E;
       color: white;
       text-align: right;
@@ -40,6 +40,7 @@ body {
   }
   
   .info-content {
+    font-family: 'Raleway', sans-serif;
     background-color: #fff;
     opacity: 0.7;
     height: 80%;
@@ -47,6 +48,8 @@ body {
     margin-top: 2em;
     padding: 1em;
     box-sizing: border-box;
+    align-items: right;
+    justify-items: right;
   }
 
   .map-container {
